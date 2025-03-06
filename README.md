@@ -38,7 +38,7 @@ pip install scanpy matplotlib seaborn pandas numpy
 ## 🚀 Running the Analysis
 Execute the Jupyter Notebook step by step or run the script:
 ```python
-python single_cell_analysis.py
+python SingleCellAnalysis.py
 ```
 
 ## 📈 Results
